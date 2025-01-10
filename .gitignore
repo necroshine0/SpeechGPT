@@ -10,3 +10,4 @@ logs/
 audio.wav
 mlruns/
 mlartifacts/
+speechgpt.egg-info/
